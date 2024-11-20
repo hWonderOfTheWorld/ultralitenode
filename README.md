@@ -12,11 +12,11 @@ The difference between Ultra Litenode and Litenode is the Block Stream Sampling
 * Deploy (make sure your env vars are properly configured)
 
 ### Notes
-Its designed to run on pretty much any provder
-Key validation is critical. Bad streams slash validation bonds (you loose bond with too many slashes)
-Priority tips are equally split with broadcasting node and network
-Registered LST are only method compatible for bonding network to get node registration. 
-You will need an external RPC
+* Its designed to run on pretty much any provder
+* Key validation is critical. Bad streams slash validation bonds (you loose bond with too many slashes)
+* Priority tips are equally split with broadcasting node and network
+* Registered LST are only method compatible for bonding network to get node registration. 
+* You will need an external RPC
 
 Use: 
 ```
